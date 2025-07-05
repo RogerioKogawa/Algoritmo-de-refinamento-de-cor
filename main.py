@@ -4,9 +4,10 @@
 import time
 
 
-#Essa função recebe a matriz em linhas, copie e cole a linha e de enter e pressione enter
-#de novo par mandar uma linha em branco
+#Essa função recebe a matriz inteira, copie cole uma matriz(uma por vez) 
+ #e pressione enter, pressione enter de novo para mandar uma linha em branco
 #Exemplo com o grafo da lista 3:
+
 # Seja a matriz
 # 0101
 # 1010
